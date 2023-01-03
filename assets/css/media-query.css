@@ -6,7 +6,7 @@
         background-image: #bf46ef;
     }
     #login_form{
-        width: 70vw;
+        width: 90vw;
         
         transition:  width 0.4s, height 0.4s;
         transition-timing-function: ease;
